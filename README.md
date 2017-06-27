@@ -13,3 +13,5 @@ Read more about the data and our analysis via [this blog post](http://andersen-l
 See [plot_case_numbers.py](scripts/plot_case_numbers.py) for preprocessing .csv files.
 
 **Disclaimer**. This data is available with permission from PAHO for educational use only.
+
+**Source**. [PAHO - Countries and territories with autochthonous transmission in the Americas reported in 2015-2017](http://www.paho.org/hq/index.php?option=com_content&view=article&id=11603:countries-territories-zika-autochthonous-transmission-americas&Itemid=41696&lang=en)
