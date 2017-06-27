@@ -1,8 +1,8 @@
 #### Data
 
-![Caribbean](https://github.com/andersen-lab/Zika-cases-PAHO/blob/master/plots/Caribbean.png)
-![Central America](https://github.com/andersen-lab/Zika-cases-PAHO/blob/master/plots/Central_America.png)
-![South America](https://github.com/andersen-lab/Zika-cases-PAHO/blob/master/plots/South_America.png)
+![Caribbean](https://raw.githubusercontent.com/andersen-lab/Zika-cases-PAHO/blob/master/plots/Caribbean.png)
+![Central America](https://raw.githubusercontent.com/andersen-lab/Zika-cases-PAHO/blob/master/plots/Central_America.png)
+![South America](https://raw.githubusercontent.com/andersen-lab/Zika-cases-PAHO/blob/master/plots/South_America.png)
 
 Screenshots of the PAHO bar graphs containing Zika virus cases by epidemiological week were taken from 41 countries in the Americas. Each screenshot was manually uploaded into the Web Plot Digitizer and data for Zika virus cases (confirmed and suspected) by epidemiological week was extracted from the graphs. The values acquired from the Web Plot Digitizer were recorded and compiled in three .csv files (Caribbean, South America, Central America).
 
