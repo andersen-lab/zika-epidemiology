@@ -9,5 +9,7 @@ Screenshots of the PAHO bar graphs containing Zika virus cases by epidemiologica
 ## Preprocessing Data for use
 
 Check [plot_case_numbers.py](scripts/plot_case_numbers.py) for preprocessing .csv files.
+=======
+Read more about the data and our analysis via [this blog post](http://andersen-lab.com/paho-zika-cases/).
 
 **Disclaimer**. As per PAHO requirements, we are making this data available for educational use only.
