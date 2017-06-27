@@ -29,14 +29,14 @@ def plot_continent(df, colors, name):
     df = fill_date(df)
     df = df.set_index("date")
     df.sort_index(inplace=True)
-    fig = plt.figure(figsize=(12,7))
+    fig = plt.figure(figsize=(17,9))
     ax = plt.subplot(111)
     df.plot(ax=ax, color=colors)
     # Shrink current axis by 20%
     box = ax.get_position()
-    ax.set_position([box.x0, box.y0, box.width * 0.8, box.height])
+    ax.set_position([box.x0, box.y0, box.width * 0.5, box.height])
     # Put a legend to the right of the current axis    
-    ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+    ax.legend(loc='center left', bbox_to_anchor=(1, 0.45))
     plt.subplots_adjust(bottom=0.2, left=0.1,right=0.8,top=None)
     ax.set_title(name.replace("_"," "))
     ax.set_xlabel("Time")
