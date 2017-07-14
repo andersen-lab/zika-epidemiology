@@ -1,4 +1,4 @@
-*UPDATE: Data is now available through 2017 epidemiological week 21 (May 21st)*
+*UPDATE: Data is now available through 2017 epidemiological week 21 (May 21st). [Data here](https://github.com/andersen-lab/Zika-cases-PAHO).*
 
 #### Data
 
