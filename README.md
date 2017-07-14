@@ -1,3 +1,5 @@
+*UPDATE: Data is now available through 2017 epidemiological week 21 (May 21st)*
+
 #### Data
 
 ![Caribbean](https://raw.githubusercontent.com/andersen-lab/Zika-cases-PAHO/master/plots/Caribbean.png)
