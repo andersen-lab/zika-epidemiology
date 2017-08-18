@@ -1,5 +1,11 @@
 *UPDATE: Data is now available through 2017 epidemiological week 21 (May 21st). [Data here](https://github.com/andersen-lab/Zika-cases-PAHO).*
 
+*Summary: Digitized Zika cases and incidence rates by epidemiological week from PAHO.*
+
+Most epidemiological investigations of Zika virus during the current epidemic in the Americas requires temporal human case data. The only place to gather this information is is from the Pan American Health Organization ([PAHO](http://www.paho.org/hq/)), an arm of the World Health Organization. They present Zika virus case numbers in two ways: spreadsheets of [cumulative case counts](http://www.paho.org/hq/index.php?option=com_content&view=article&id=12390&Itemid=42090&lang=en) and bar graphs of [weekly reported cases](http://www.paho.org/hq/index.php?option=com_content&view=article&id=11603:countries-territories-zika-autochthonous-transmission-americas&Itemid=41696&lang=en). The data from the cumulative case spreadsheets are easy to download and can be readily adapted for research purposes. Using the differences in cumulative cases reported per week, however, is not the same as obtaining weekly reported case counts. That is mainly because not every country/territory reports Zika case numbers to PAHO every week. In some instances, there could be backlogs of reporting for a month or longer. Therefore, by using this method, artificial peaks and valleys of Zika case numbers appear that will bias epidemiological investigations.
+
+The more accurate weekly data reported by PAHO are presented as bar graphs for each region. Here, PAHO takes the backlogged data and assigns cases to their respective weeks of reporting. For this project, we continously digitize this data and make it available to the research community.
+
 #### Data
 
 ![Caribbean](https://raw.githubusercontent.com/andersen-lab/Zika-cases-PAHO/master/plots/Caribbean.png)
