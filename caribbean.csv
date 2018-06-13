@@ -1,4 +1,4 @@
-susp/con ZIKV cases,,Caribbean,AnguillaAD1:AF1nguilla,Antigua-Barbuda,Aruba,Bahamas,Barbados,British Virgin Islands,Cayman Islands,Cuba,Curacao,Dominica,Dominican Republic,Grenada,Guadeloupe,Haiti,Jamaica,Martinique,Puerto Rico,St. Barthelemy,St. Lucia,St. Vincent/Grenadines,St. Martin/St. Marteen,St. Kitts/Nevis,Trinidad/Tobago,Turks/Caicos,US Virgin Islands,St. Thomas,St. Croix,St. John,**represented collectively as USVI
+susp/con ZIKV cases,,Caribbean,Anguilla,Antigua-Barbuda,Aruba,Bahamas,Barbados,British Virgin Islands,Cayman Islands,Cuba,Curacao,Dominica,Dominican Republic,Grenada,Guadeloupe,Haiti,Jamaica,Martinique,Puerto Rico,St. Barthelemy,St. Lucia,St. Vincent/Grenadines,St. Martin/St. Marteen,St. Kitts/Nevis,Trinidad/Tobago,Turks/Caicos,US Virgin Islands,St. Thomas,St. Croix,St. John,**represented collectively as USVI
 year,date,epi week,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2016,3-Jan,1,0,0,2,2,18,0,2,0,0,0,30,0,0,27,12,448,39,3,,0,0,0,1,0,7,3,4,0,
 ,10-Jan,2,0,0,1,5,31,0,2,0,4,0,34,0,0,23,15,624,42,0,,0,2,0,0,0,6,2,4,0,
