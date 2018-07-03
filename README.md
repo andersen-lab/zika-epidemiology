@@ -1,5 +1,5 @@
-Zika Epidemiology - Case Numbers
----
+#### Zika Epidemiology - Case Numbers
+
 
 **[Digitized Zika cases and incidence rates by epidemiological week from PAHO](https://github.com/andersen-lab/Zika-cases-PAHO/tree/master/paho_case_numbers)**
 
