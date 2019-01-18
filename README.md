@@ -1,6 +1,3 @@
-#### Zika Epidemiology - Case Numbers
-
-
 **[Digitized Zika cases and incidence rates by epidemiological week from PAHO](https://github.com/andersen-lab/Zika-cases-PAHO/tree/master/paho_case_numbers)**
 
 Most epidemiological investigations of Zika virus during the current epidemic in the Americas requires temporal human case data. The only place to gather this information is is from the Pan American Health Organization (PAHO), an arm of the World Health Organization. They present Zika virus case numbers in two ways: spreadsheets of cumulative case counts and bar graphs of weekly reported cases. The data from the cumulative case spreadsheets are easy to download and can be readily adapted for research purposes.
